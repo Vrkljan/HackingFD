@@ -1,0 +1,2060 @@
+[
+	{
+	  "birthDate": -967911012253,
+	  "startDate": 41932187747,
+	  "endDate": 309911356781,
+	  "totalTime": 267979169034,
+	  "timeToOFP": 76565018521,
+	  "birth": "Hamilton",
+	  "birthcord": {
+		"lng": -79.8711,
+		"lat": 43.2557
+	  },
+	  "recurit": "Toronto",
+	  "recuritcord": {
+		"lng": -79.3832,
+		"lat": 43.6532
+	  },
+	  "trainingHistory": {
+		"Kingston": 5404239000000,
+		"Gagetown": 5159667600000,
+		"Ottawa": 4244497200000,
+		"Montreal": 4157713800000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 62416398050,
+		"ew21": 83671230102
+	  },
+	  "isofficer": false,
+	  "branch": "Navy",
+	  "trade": "NW8216",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -1200925330765,
+	  "startDate": 29821069235,
+	  "endDate": 472279675490,
+	  "totalTime": 442458606255,
+	  "timeToOFP": 54312630102,
+	  "birth": "Hamilton",
+	  "birthcord": {
+		"lng": -79.8711,
+		"lat": 43.2557
+	  },
+	  "recurit": "Calgary",
+	  "recuritcord": {
+		"lng": -114.0719,
+		"lat": 51.0447
+	  },
+	  "trainingHistory": {
+		"Kingston": 7991962200000,
+		"Gagetown": 7250358600000,
+		"Ottawa": 8181307800000,
+		"Montreal": 7226690400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 125327539574,
+		"ew21": 303132730264
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N7529",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": 100606189857,
+	  "startDate": 1678486189857,
+	  "endDate": 1733007762004,
+	  "totalTime": 54521572147,
+	  "timeToOFP": 0,
+	  "birth": "Regina",
+	  "birthcord": {
+		"lng": -104.6178,
+		"lat": 50.4454
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Kingston": 1349087400000,
+		"Gagetown": 1309640400000,
+		"Ottawa": 1341198000000,
+		"Montreal": 1656774000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DOTP",
+	  "postingHistory": {},
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English",
+		"French",
+		"German"
+	  ]
+	},
+	{
+	  "birthDate": -835099679110,
+	  "startDate": 300973920890,
+	  "endDate": 302411634188,
+	  "totalTime": 1437713298,
+	  "timeToOFP": 0,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Montreal": 1437713298
+	  },
+	  "trainingLocation": {},
+	  "entryplan": "NCM_SEP",
+	  "postingHistory": {},
+	  "isofficer": true,
+	  "branch": "Army",
+	  "trade": "OL4307",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -688152261768,
+	  "startDate": 6114938232,
+	  "endDate": 249992156212,
+	  "totalTime": 243877217980,
+	  "timeToOFP": 86936631177,
+	  "birth": "Kitchener",
+	  "birthcord": {
+		"lng": -80.4925,
+		"lat": 43.4516
+	  },
+	  "recurit": "Calgary",
+	  "recuritcord": {
+		"lng": -114.0719,
+		"lat": 51.0447
+	  },
+	  "trainingHistory": {
+		"Kingston": 4473289800000,
+		"Gagetown": 4410174600000,
+		"Ottawa": 4378617000000,
+		"Montreal": 4086709200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 133112590913,
+		"ew21": 51439115519
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": 109747150379,
+	  "startDate": 1340493550379,
+	  "endDate": 1712215757623,
+	  "totalTime": 371722207244,
+	  "timeToOFP": 49346086269,
+	  "birth": "Ottawa",
+	  "birthcord": {
+		"lng": -75.6972,
+		"lat": 45.4215
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 7881510600000,
+		"Gagetown": 7455483000000,
+		"Ottawa": 6966340200000,
+		"Montreal": 7005787200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DOTP",
+	  "postingHistory": {
+		"div2": 92800317092,
+		"ew21": 142577465746
+	  },
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -265358096108,
+	  "startDate": 1060061103892,
+	  "endDate": 1733007762007,
+	  "totalTime": 672946658115,
+	  "timeToOFP": 78874023929,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Halifax",
+	  "recuritcord": {
+		"lng": -63.5752,
+		"lat": 44.6488
+	  },
+	  "trainingHistory": {
+		"Kingston": 5120220600000,
+		"Gagetown": 4954543200000,
+		"Ottawa": 4481179200000,
+		"Montreal": 5246451000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "NCM_SEP",
+	  "postingHistory": {
+		"div2": 210440393193,
+		"ew21": 371181148021
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N7529",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -810116426380,
+	  "startDate": 136611573620,
+	  "endDate": 1154006215399,
+	  "totalTime": 1017394641779,
+	  "timeToOFP": 63644556016,
+	  "birth": "NiagaraFalls",
+	  "birthcord": {
+		"lng": -79.0831,
+		"lat": 43.0896
+	  },
+	  "recurit": "Winnipeg",
+	  "recuritcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "trainingHistory": {
+		"Kingston": 15810357600000,
+		"Gagetown": 14626947600000,
+		"Ottawa": 16520403600000,
+		"Montreal": 16062818400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "CEOTP",
+	  "postingHistory": {
+		"div2": 531653614815,
+		"ew21": 299667670410
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N1478",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -611464789077,
+	  "startDate": 871742410923,
+	  "endDate": 1142424145907,
+	  "totalTime": 270681734984,
+	  "timeToOFP": 76901272408,
+	  "birth": "Regina",
+	  "birthcord": {
+		"lng": -104.6178,
+		"lat": 50.4454
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Kingston": 5420017800000,
+		"Gagetown": 6516644400000,
+		"Ottawa": 5743483200000,
+		"Montreal": 4962432600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DOTP",
+	  "postingHistory": {
+		"div2": 252679748864
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English",
+		"German"
+	  ]
+	},
+	{
+	  "birthDate": -66456300475,
+	  "startDate": 1416750899525,
+	  "endDate": 1733007762013,
+	  "totalTime": 316256862488,
+	  "timeToOFP": 83706808547,
+	  "birth": "Kingston",
+	  "birthcord": {
+		"lng": -76.4822,
+		"lat": 44.2312
+	  },
+	  "recurit": "Halifax",
+	  "recuritcord": {
+		"lng": -63.5752,
+		"lat": 44.6488
+	  },
+	  "trainingHistory": {
+		"Kingston": 4504847400000,
+		"Gagetown": 4883538600000,
+		"Ottawa": 4654746000000,
+		"Montreal": 4607409600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DOTP",
+	  "postingHistory": {
+		"div2": 197699233975,
+		"ew21": 72093057292
+	  },
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -404754004272,
+	  "startDate": 1141568395728,
+	  "endDate": 1298243914072,
+	  "totalTime": 156675518344,
+	  "timeToOFP": 79471729370,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Edmonton",
+	  "recuritcord": {
+		"lng": -113.4909,
+		"lat": 53.5461
+	  },
+	  "trainingHistory": {
+		"Kingston": 5088663000000,
+		"Gagetown": 4520626200000,
+		"Ottawa": 4386506400000,
+		"Montreal": 4489068600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "ROTP",
+	  "postingHistory": {
+		"div2": 17066080514
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N1478",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -719925711923,
+	  "startDate": 794839088077,
+	  "endDate": 1188476479068,
+	  "totalTime": 393637390991,
+	  "timeToOFP": 62977098876,
+	  "birth": "Mississauga",
+	  "birthcord": {
+		"lng": -79.6393,
+		"lat": 43.589
+	  },
+	  "recurit": "Calgary",
+	  "recuritcord": {
+		"lng": -114.0719,
+		"lat": 51.0447
+	  },
+	  "trainingHistory": {
+		"Kingston": 142009200000,
+		"Gagetown": 339244200000,
+		"Ottawa": 205124400000,
+		"Montreal": 118341000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "NCM_SEP",
+	  "postingHistory": {
+		"div2": 101634941099,
+		"ew21": 201504262928
+	  },
+	  "isofficer": false,
+	  "branch": "Army",
+	  "trade": "NL5942",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -812421874314,
+	  "startDate": 418324525686,
+	  "endDate": 1108554017574,
+	  "totalTime": 690229491888,
+	  "timeToOFP": 56411314535,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Kingston",
+	  "recuritcord": {
+		"lng": -76.4822,
+		"lat": 44.2312
+	  },
+	  "trainingHistory": {
+		"Kingston": 11968219800000,
+		"Gagetown": 12283795800000,
+		"Ottawa": 12307464000000,
+		"Montreal": 12694044600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "ROTP",
+	  "postingHistory": {
+		"div2": 418933941097,
+		"ew21": 206813373813
+	  },
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -408837968683,
+	  "startDate": 1169042031317,
+	  "endDate": 1733007762017,
+	  "totalTime": 563965730700,
+	  "timeToOFP": 59944068749,
+	  "birth": "NiagaraFalls",
+	  "birthcord": {
+		"lng": -79.0831,
+		"lat": 43.0896
+	  },
+	  "recurit": "Winnipeg",
+	  "recuritcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "trainingHistory": {
+		"Kingston": 2816515800000,
+		"Gagetown": 2564055000000,
+		"Ottawa": 3100534200000,
+		"Montreal": 3376663200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DEO",
+	  "postingHistory": {
+		"div2": 238947118498,
+		"ew21": 226024884981
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": 304509354566,
+	  "startDate": 1314352554566,
+	  "endDate": 1733007762018,
+	  "totalTime": 418655207452,
+	  "timeToOFP": 56599798757,
+	  "birth": "Victoria",
+	  "birthcord": {
+		"lng": -123.3656,
+		"lat": 48.4284
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 12544146000000,
+		"Gagetown": 12646708200000,
+		"Ottawa": 11818321200000,
+		"Montreal": 12615150600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 17690199388,
+		"ew21": 180649345121
+	  },
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": 498709652883,
+	  "startDate": 1603225652883,
+	  "endDate": 1733007762020,
+	  "totalTime": 129782109137,
+	  "timeToOFP": 58155740678,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 2074912200000,
+		"Gagetown": 2114359200000,
+		"Ottawa": 1901345400000,
+		"Montreal": 1956571200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "RESO",
+	  "postingHistory": {
+		"div2": 7275999013
+	  },
+	  "isofficer": true,
+	  "branch": "Army",
+	  "trade": "OL4307",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -573142214182,
+	  "startDate": 720719385818,
+	  "endDate": 1097835993394,
+	  "totalTime": 377116607576,
+	  "timeToOFP": 53226489888,
+	  "birth": "Regina",
+	  "birthcord": {
+		"lng": -104.6178,
+		"lat": 50.4454
+	  },
+	  "recurit": "London",
+	  "recuritcord": {
+		"lng": -81.2497,
+		"lat": 42.9849
+	  },
+	  "trainingHistory": {
+		"Kingston": 11621086200000,
+		"Gagetown": 11423851200000,
+		"Ottawa": 10871593200000,
+		"Montreal": 10066874400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DEO",
+	  "postingHistory": {
+		"div2": 27247788631
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N3962",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -262368544611,
+	  "startDate": 589686655389,
+	  "endDate": 937984723838,
+	  "totalTime": 348298068449,
+	  "timeToOFP": 80757246908,
+	  "birth": "Ottawa",
+	  "birthcord": {
+		"lng": -75.6972,
+		"lat": 45.4215
+	  },
+	  "recurit": "London",
+	  "recuritcord": {
+		"lng": -81.2497,
+		"lat": 42.9849
+	  },
+	  "trainingHistory": {
+		"Kingston": 9167482800000,
+		"Gagetown": 8883464400000,
+		"Ottawa": 8504773200000,
+		"Montreal": 7605381600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "MOTP",
+	  "postingHistory": {
+		"div2": 89972091939,
+		"ew21": 212566574150
+	  },
+	  "isofficer": true,
+	  "branch": "Army",
+	  "trade": "OL4307",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -1342007527374,
+	  "startDate": 235872472626,
+	  "endDate": 1240791040138,
+	  "totalTime": 1004918567512,
+	  "timeToOFP": 87722518981,
+	  "birth": "London",
+	  "birthcord": {
+		"lng": -81.2497,
+		"lat": 42.9849
+	  },
+	  "recurit": "Ottawa",
+	  "recuritcord": {
+		"lng": -75.6972,
+		"lat": 45.4215
+	  },
+	  "trainingHistory": {
+		"Kingston": 6153732000000,
+		"Gagetown": 5325345000000,
+		"Ottawa": 5806598400000,
+		"Montreal": 6114285000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "ROTP",
+	  "postingHistory": {
+		"div2": 437359314453,
+		"ew21": 232853772824
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N1478",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -313089953977,
+	  "startDate": 412734846023,
+	  "endDate": 1227897525205,
+	  "totalTime": 815162679182,
+	  "timeToOFP": 93696310155,
+	  "birth": "StJohn",
+	  "birthcord": {
+		"lng": -52.7126,
+		"lat": 47.5615
+	  },
+	  "recurit": "Toronto",
+	  "recuritcord": {
+		"lng": -79.3832,
+		"lat": 43.6532
+	  },
+	  "trainingHistory": {
+		"Kingston": 20725453800000,
+		"Gagetown": 21112034400000,
+		"Ottawa": 21159370800000,
+		"Montreal": 20835905400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "ROTP",
+	  "postingHistory": {
+		"div2": 243619537517,
+		"ew21": 239345545338
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -146796544979,
+	  "startDate": 863046655021,
+	  "endDate": 1268989329256,
+	  "totalTime": 405942674235,
+	  "timeToOFP": 73648152647,
+	  "birth": "Burnaby",
+	  "birthcord": {
+		"lng": -123.0004,
+		"lat": 49.2488
+	  },
+	  "recurit": "Toronto",
+	  "recuritcord": {
+		"lng": -79.3832,
+		"lat": 43.6532
+	  },
+	  "trainingHistory": {
+		"Kingston": 8252312400000,
+		"Gagetown": 7479151200000,
+		"Ottawa": 6982119000000,
+		"Montreal": 7084681200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 99030900661,
+		"ew21": 104050305050
+	  },
+	  "isofficer": false,
+	  "branch": "Army",
+	  "trade": "NL5942",
+	  "language": [
+		"English",
+		"Chinese"
+	  ]
+	},
+	{
+	  "birthDate": -746610700828,
+	  "startDate": 452578099172,
+	  "endDate": 1127705520470,
+	  "totalTime": 675127421298,
+	  "timeToOFP": 71667635890,
+	  "birth": "Winnipeg",
+	  "birthcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "recurit": "Winnipeg",
+	  "recuritcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "trainingHistory": {
+		"Kingston": 10516570200000,
+		"Gagetown": 10729584000000,
+		"Ottawa": 10279888200000,
+		"Montreal": 10942597800000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "NCM_SEP",
+	  "postingHistory": {
+		"div2": 224319125400,
+		"ew21": 334219308553
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N7529",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -689585855941,
+	  "startDate": 762063744059,
+	  "endDate": 1068130356886,
+	  "totalTime": 306066612827,
+	  "timeToOFP": 56593159622,
+	  "birth": "Montreal",
+	  "birthcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 4410174600000,
+		"Gagetown": 4662635400000,
+		"Ottawa": 4276054800000,
+		"Montreal": 4599520200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DEO",
+	  "postingHistory": {
+		"div2": 185991237765
+	  },
+	  "isofficer": true,
+	  "branch": "AirForce",
+	  "trade": "OA9853",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -571304922541,
+	  "startDate": 848787077459,
+	  "endDate": 1210706297600,
+	  "totalTime": 361919220141,
+	  "timeToOFP": 76336830017,
+	  "birth": "Kitchener",
+	  "birthcord": {
+		"lng": -80.4925,
+		"lat": 43.4516
+	  },
+	  "recurit": "London",
+	  "recuritcord": {
+		"lng": -81.2497,
+		"lat": 42.9849
+	  },
+	  "trainingHistory": {
+		"Kingston": 4457511000000,
+		"Gagetown": 4276054800000,
+		"Ottawa": 4702082400000,
+		"Montreal": 4339170000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "MOTP",
+	  "postingHistory": {
+		"div2": 226882684784
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -888640551647,
+	  "startDate": 626124248353,
+	  "endDate": 1385139762657,
+	  "totalTime": 759015514304,
+	  "timeToOFP": 78488003380,
+	  "birth": "Gatineau",
+	  "birthcord": {
+		"lng": -75.7013,
+		"lat": 45.4765
+	  },
+	  "recurit": "Calgary",
+	  "recuritcord": {
+		"lng": -114.0719,
+		"lat": 51.0447
+	  },
+	  "trainingHistory": {
+		"Kingston": 15352772400000,
+		"Gagetown": 15368551200000,
+		"Ottawa": 16118044200000,
+		"Montreal": 17719592400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "MOTP",
+	  "postingHistory": {
+		"div2": 151129806668,
+		"ew21": 329792668614
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N1478",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -100167711618,
+	  "startDate": 1288366688382,
+	  "endDate": 1733007762033,
+	  "totalTime": 444641073651,
+	  "timeToOFP": 48932518366,
+	  "birth": "Mississauga",
+	  "birthcord": {
+		"lng": -79.6393,
+		"lat": 43.589
+	  },
+	  "recurit": "Kingston",
+	  "recuritcord": {
+		"lng": -76.4822,
+		"lat": 44.2312
+	  },
+	  "trainingHistory": {
+		"Kingston": 9419943600000,
+		"Gagetown": 9080699400000,
+		"Ottawa": 8678340000000,
+		"Montreal": 8915022000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DOTP",
+	  "postingHistory": {
+		"div2": 183157950665,
+		"ew21": 253790454052
+	  },
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English",
+		"German"
+	  ]
+	},
+	{
+	  "birthDate": -185560940172,
+	  "startDate": 1360761459828,
+	  "endDate": 1515357203116,
+	  "totalTime": 154595743288,
+	  "timeToOFP": 78009458614,
+	  "birth": "London",
+	  "birthcord": {
+		"lng": -81.2497,
+		"lat": 42.9849
+	  },
+	  "recurit": "Toronto",
+	  "recuritcord": {
+		"lng": -79.3832,
+		"lat": 43.6532
+	  },
+	  "trainingHistory": {
+		"Kingston": 2500939800000,
+		"Gagetown": 2761290000000,
+		"Ottawa": 3108423600000,
+		"Montreal": 2674506600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "CEOTP",
+	  "postingHistory": {
+		"ew21": 15567092597
+	  },
+	  "isofficer": false,
+	  "branch": "Army",
+	  "trade": "NL5942",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": 58454193821,
+	  "startDate": 1541661393821,
+	  "endDate": 1733007762034,
+	  "totalTime": 191346368213,
+	  "timeToOFP": 60986872402,
+	  "birth": "Saskatoon",
+	  "birthcord": {
+		"lng": -106.694,
+		"lat": 52.1332
+	  },
+	  "recurit": "Kingston",
+	  "recuritcord": {
+		"lng": -76.4822,
+		"lat": 44.2312
+	  },
+	  "trainingHistory": {
+		"Kingston": 2745511200000,
+		"Gagetown": 3013750800000,
+		"Ottawa": 2950635600000,
+		"Montreal": 2698174800000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "RESO",
+	  "postingHistory": {
+		"div2": 63338251391,
+		"ew21": 42997308495
+	  },
+	  "isofficer": true,
+	  "branch": "Army",
+	  "trade": "OL4307",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -1215313856993,
+	  "startDate": 331008543007,
+	  "endDate": 353917182123,
+	  "totalTime": 22908639116,
+	  "timeToOFP": 0,
+	  "birth": "Vancouver",
+	  "birthcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "recurit": "Halifax",
+	  "recuritcord": {
+		"lng": -63.5752,
+		"lat": 44.6488
+	  },
+	  "trainingHistory": {
+		"Kingston": 71004600000,
+		"Gagetown": 55225800000,
+		"Ottawa": 23668200000,
+		"Montreal": 86783400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "RESO",
+	  "postingHistory": {},
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -426084315819,
+	  "startDate": 994007684181,
+	  "endDate": 1277732863298,
+	  "totalTime": 283725179117,
+	  "timeToOFP": 82224201804,
+	  "birth": "Edmonton",
+	  "birthcord": {
+		"lng": -113.4909,
+		"lat": 53.5461
+	  },
+	  "recurit": "Toronto",
+	  "recuritcord": {
+		"lng": -79.3832,
+		"lat": 43.6532
+	  },
+	  "trainingHistory": {
+		"Kingston": 8410100400000,
+		"Gagetown": 7707943800000,
+		"Ottawa": 7313473800000,
+		"Montreal": 7999851600000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "DEO",
+	  "postingHistory": {
+		"div2": 108845044219,
+		"ew21": 126002895540
+	  },
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -157098220720,
+	  "startDate": 947417779280,
+	  "endDate": 1607252211932,
+	  "totalTime": 659834432652,
+	  "timeToOFP": 74086126157,
+	  "birth": "Quebec",
+	  "birthcord": {
+		"lng": -71.2082,
+		"lat": 46.8139
+	  },
+	  "recurit": "Winnipeg",
+	  "recuritcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "trainingHistory": {
+		"Kingston": 8891353800000,
+		"Gagetown": 8047188000000,
+		"Ottawa": 8307538200000,
+		"Montreal": 8481105000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "ROTP",
+	  "postingHistory": {
+		"div2": 235581998887,
+		"ew21": 302944509143
+	  },
+	  "isofficer": false,
+	  "branch": "AirForce",
+	  "trade": "NA1735",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -1077316546087,
+	  "startDate": 279660253913,
+	  "endDate": 727299536894,
+	  "totalTime": 447639282981,
+	  "timeToOFP": 86015537575,
+	  "birth": "StJohn",
+	  "birthcord": {
+		"lng": -52.7126,
+		"lat": 47.5615
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Kingston": 10784809800000,
+		"Gagetown": 9664515000000,
+		"Ottawa": 8970247800000,
+		"Montreal": 11187169200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "RESO",
+	  "postingHistory": {
+		"div2": 235616887055
+	  },
+	  "isofficer": false,
+	  "branch": "",
+	  "trade": "N3962",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -1230121745818,
+	  "startDate": 189970254182,
+	  "endDate": 582902863656,
+	  "totalTime": 392932609474,
+	  "timeToOFP": 70898256393,
+	  "birth": "Gatineau",
+	  "birthcord": {
+		"lng": -75.7013,
+		"lat": 45.4765
+	  },
+	  "recurit": "Halifax",
+	  "recuritcord": {
+		"lng": -63.5752,
+		"lat": 44.6488
+	  },
+	  "trainingHistory": {
+		"Kingston": 4638967200000,
+		"Gagetown": 5562027000000,
+		"Ottawa": 6319409400000,
+		"Montreal": 5656699800000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "CEOTP",
+	  "postingHistory": {
+		"div2": 238370629506,
+		"ew21": 74121480143
+	  },
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": 251236118232,
+	  "startDate": 1639770518232,
+	  "endDate": 1733007762039,
+	  "totalTime": 93237243807,
+	  "timeToOFP": 59609246280,
+	  "birth": "Kitchener",
+	  "birthcord": {
+		"lng": -80.4925,
+		"lat": 43.4516
+	  },
+	  "recurit": "Calgary",
+	  "recuritcord": {
+		"lng": -114.0719,
+		"lat": 51.0447
+	  },
+	  "trainingHistory": {
+		"Kingston": 3053197800000,
+		"Gagetown": 2540386800000,
+		"Ottawa": 2485161000000,
+		"Montreal": 2784958200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {},
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -1144992293546,
+	  "startDate": 243542106454,
+	  "endDate": 1247901902503,
+	  "totalTime": 1004359796049,
+	  "timeToOFP": 67502460338,
+	  "birth": "Saskatoon",
+	  "birthcord": {
+		"lng": -106.694,
+		"lat": 52.1332
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 12354800400000,
+		"Gagetown": 12780828000000,
+		"Ottawa": 11163501000000,
+		"Montreal": 11778874200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "RESO",
+	  "postingHistory": {
+		"div2": 272831576600,
+		"ew21": 432902161782
+	  },
+	  "isofficer": true,
+	  "branch": "Army",
+	  "trade": "OL4307",
+	  "language": [
+		"English",
+		"Spanish"
+	  ]
+	},
+	{
+	  "birthDate": -565148937633,
+	  "startDate": 570924662367,
+	  "endDate": 1592698645601,
+	  "totalTime": 1021773983234,
+	  "timeToOFP": 93297201303,
+	  "birth": "Victoria",
+	  "birthcord": {
+		"lng": -123.3656,
+		"lat": 48.4284
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Kingston": 19549933200000,
+		"Gagetown": 19352698200000,
+		"Ottawa": 20157417000000,
+		"Montreal": 20401988400000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {
+		"div2": 270375983286,
+		"ew21": 438667914880
+	  },
+	  "isofficer": true,
+	  "branch": "",
+	  "trade": "O6184",
+	  "language": [
+		"English",
+		"Chinese"
+	  ]
+	},
+	{
+	  "birthDate": -32967400985,
+	  "startDate": 787530199015,
+	  "endDate": 1114216353116,
+	  "totalTime": 326686154101,
+	  "timeToOFP": 50725931585,
+	  "birth": "Winnipeg",
+	  "birthcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "recurit": "Montreal",
+	  "recuritcord": {
+		"lng": -73.5673,
+		"lat": 45.5017
+	  },
+	  "trainingHistory": {
+		"Kingston": 3155760000000,
+		"Gagetown": 3913142400000,
+		"Ottawa": 3881584800000,
+		"Montreal": 3889474200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "MOTP",
+	  "postingHistory": {
+		"div2": 137298709861,
+		"ew21": 142530070787
+	  },
+	  "isofficer": false,
+	  "branch": "Navy",
+	  "trade": "NW8216",
+	  "language": [
+		"English"
+	  ]
+	},
+	{
+	  "birthDate": -899094428326,
+	  "startDate": 394767171674,
+	  "endDate": 530611245042,
+	  "totalTime": 135844073368,
+	  "timeToOFP": 86984287482,
+	  "birth": "Winnipeg",
+	  "birthcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "recurit": "Kingston",
+	  "recuritcord": {
+		"lng": -76.4822,
+		"lat": 44.2312
+	  },
+	  "trainingHistory": {
+		"Kingston": 339244200000,
+		"Gagetown": 497032200000,
+		"Ottawa": 607483800000,
+		"Montreal": 575926200000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "CEOTP",
+	  "postingHistory": {
+		"div2": 96795160976
+	  },
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -311726473674,
+	  "startDate": 1171480726326,
+	  "endDate": 1332922405283,
+	  "totalTime": 161441678957,
+	  "timeToOFP": 72926778083,
+	  "birth": "Regina",
+	  "birthcord": {
+		"lng": -104.6178,
+		"lat": 50.4454
+	  },
+	  "recurit": "Vancouver",
+	  "recuritcord": {
+		"lng": -123.1216,
+		"lat": 49.2827
+	  },
+	  "trainingHistory": {
+		"Kingston": 4299723000000,
+		"Gagetown": 4102488000000,
+		"Ottawa": 3999925800000,
+		"Montreal": 4828312800000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "SEELM",
+	  "postingHistory": {},
+	  "isofficer": true,
+	  "branch": "Navy",
+	  "trade": "OW2641",
+	  "language": [
+		"English",
+		"French"
+	  ]
+	},
+	{
+	  "birthDate": -57534772325,
+	  "startDate": 920750827675,
+	  "endDate": 1731781319284,
+	  "totalTime": 811030491609,
+	  "timeToOFP": 53683006713,
+	  "birth": "Kitchener",
+	  "birthcord": {
+		"lng": -80.4925,
+		"lat": 43.4516
+	  },
+	  "recurit": "Winnipeg",
+	  "recuritcord": {
+		"lng": -97.1384,
+		"lat": 49.8951
+	  },
+	  "trainingHistory": {
+		"Kingston": 11897215200000,
+		"Gagetown": 13049067600000,
+		"Ottawa": 11337067800000,
+		"Montreal": 11321289000000
+	  },
+	  "trainingLocation": {
+		"Kingston": {
+		  "lng": -76.4822,
+		  "lat": 44.2312
+		},
+		"Gagetown": {
+		  "lng": -65.7553,
+		  "lat": 45.7894
+		},
+		"Ottawa": {
+		  "lng": -75.6972,
+		  "lat": 45.4215
+		},
+		"Montreal": {
+		  "lng": -73.5673,
+		  "lat": 45.5017
+		}
+	  },
+	  "entryplan": "NCM_SEP",
+	  "postingHistory": {
+		"div2": 198361994767,
+		"ew21": 67566309803
+	  },
+	  "isofficer": false,
+	  "branch": "Navy",
+	  "trade": "NW8216",
+	  "language": [
+		"English"
+	  ]
+	}
+  ]

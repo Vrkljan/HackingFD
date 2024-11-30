@@ -1,39 +1,30 @@
-import dynamic from "next/dynamic";
-import { useEffect } from "react";
-
-const CanadianMap = dynamic(() => import("./CanadianMap"), { ssr: false });
-import Button from "./button";
+import TicketItem from "./TicketItem";
 
 export default function Layout({ children }) {
-    useEffect(() => {
-        if (typeof window !== "undefined") {
-            // Code that uses window or leaflet
-            const L = require("leaflet");
-            // Initialize your map here if needed
-        }
-    }, []);
-
     return (
-        <>
-            <header className="h-24 bg-blue-400 flex items-center justify-center text-5xl">
-                <h1 className="text-center">My Site</h1>
+        <div className="h-screen">
+            <header className="w-full bg-blue-300 flex justify-between items-center p-8">
+                <div className="flex-col">
+                    <h1 className="font-bold text-5xl">
+                        VADI
+                    </h1>
+                    <h2 className="font-bold text-2xl">
+                        Commanders Critical Recruiting Report
+                    </h2>
+                </div>
+                <div className="ticker-container overflow-hidden whitespace-nowrap">
+                    <div className="ticker-content ">
+                        <TicketItem text="00341 - SIGNALS" direction="down" />
+                        <TicketItem text="Ticker Item 1" />
+                        <TicketItem text="Ticker Item 1" />
+                    </div>
+                </div>
             </header>
 
-            <Button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
-                Button 1
-            </Button>
-
-            <Button className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded ">
-                Button 1
-            </Button>
-
-            <div className="absolute right-0 top-24 w-2/3 h-full bg-gray-700">
-                <div id="map" className=" h-full">
-                    <CanadianMap />
-                </div>
+            <div className="flex-row h-5/6 bg-blue-100 text-black">
+                <main>{children}</main>
             </div>
-
-            <main>{children}</main>
-        </>
+        </div>
     );
 }
+
