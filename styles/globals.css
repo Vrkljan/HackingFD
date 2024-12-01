@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap');
+
 :root {
     --background: #ffffff;
     --foreground: #171717;
@@ -28,7 +30,7 @@ body {
 
 @keyframes ticker {
     0% {
-        transform: translateX(100%);
+        transform: translateX(1200%);
     }
     100% {
         transform: translateX(-100%);
@@ -42,5 +44,10 @@ body {
 
 .ticker-content {
     white-space: nowrap;
-    animation: ticker 15s linear infinite;
+    gap: 15rem; /* Adjust spacing between items */
+    animation: ticker 90s linear infinite;
 }
+
+html {
+    font-family: 'Jost', sans-serif;
+  }

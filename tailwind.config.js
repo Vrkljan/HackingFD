@@ -7,6 +7,7 @@ module.exports = {
   ],
   theme: {
     extend: {
+      sans: ['Jost', 'sans-serif'], // Set Jost as the default sans-serif font
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
