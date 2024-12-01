@@ -3,6 +3,7 @@ import CanadianMap from "@/components/CanadianMap";
 import React, { useState } from "react";
 import json from "@/public/TestFile.json";
 import TicketItem from "@/components/TicketItem";
+import Link from "next/link";
 
 
 const Home = () => {
@@ -29,7 +30,7 @@ const Home = () => {
                     <div className="flex-col">
                         <h1 className="font-bold text-3xl">VADI</h1>
                         <h2 className="font-normal text-md">
-                            Commanders Critical Recruiting Report
+                            General Information
                         </h2>
                     </div>
                     <div className="ticker-container overflow-hidden whitespace-nowrap">
@@ -87,24 +88,17 @@ const Home = () => {
                 <div className="flex p-4 h-[80vh]">
                     {/* Filters */}
                     <div className="mt-4 grid grid-cols-1 gap-4 w-1/5 p-8">
-                        {[
-                            "MOSID",
-                            "Quantity",
-                            "Quality",
-                            "Element",
-                            "Bases",
-                            "Programs",
-                            "Event Impact",
-                            "CFRCs",
-                        ].map((filter) => (
-                            <button
-                                key={filter}
-                                className="bg-gray-700 p-2 hover:bg-gray-600"
-                            >
-                                {filter}
-                            </button>
-                        ))}
-                    </div>
+    {[
+        { name: "Overview", href: "/00341" },
+        { name: "MOSID", href: "/mosid" },
+    ].map((filter) => (
+        <Link key={filter.name} href={filter.href}>
+<button className="bg-gray-700 h-40 hover:bg-gray-600 w-full text-white text-center rounded">
+{filter.name}
+            </button>
+        </Link>
+    ))}
+</div>
 
                     <div className="w-full">
                         {/* Map Section */}

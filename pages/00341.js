@@ -1,5 +1,6 @@
 import React from "react";
 import { Line } from "react-chartjs-2";
+import Link from "next/link";
 import {
   Chart as ChartJS,
   LineElement,
@@ -15,20 +16,21 @@ ChartJS.register(LineElement, PointElement, CategoryScale, LinearScale, Title, T
 
 const commanders_critical = () => {
   const criticalTrades = [
-    { trade: "00005 CRMN", isHighlighted: false },
-    { trade: "00010 INFMN", isHighlighted: false },
-    { trade: "00019 AES OP", isHighlighted: false },
-    { trade: "00021 FLT ENGR", isHighlighted: false },
-    { trade: "00099 INT OP", isHighlighted: false },
-    { trade: "00100 MET TECH", isHighlighted: false },
-    { trade: "00101 SAR TECH", isHighlighted: false },
-    { trade: "00105 BOSN", isHighlighted: false },
-    { trade: "00109 ATIS TECH", isHighlighted: false },
-    { trade: "00200 COMAN RSCH", isHighlighted: true },
-    { trade: "00129 VEH TECH", isHighlighted: true },
-    { trade: "00130 W TECH L", isHighlighted: true },
-    { trade: "00134 MAT TECH", isHighlighted: true },
-    { trade: "00135 AVN TECH", isHighlighted: true },
+    { trade: "00200 COMAN RSCH | 20% MANNING", isHighlighted: true },
+    { trade: "00129 VEH TECH | 31% MANNING", isHighlighted: true },
+    { trade: "00130 W TECH L | 42% MANNING", isHighlighted: true },
+    { trade: "00134 MAT TECH | 48% MANNING", isHighlighted: true },
+    { trade: "00135 AVN TECH | 50% MANNING", isHighlighted: true },
+    { trade: "00005 CRMN | 51% MANNING", isHighlighted: false },
+    { trade: "00010 INFMN | 54% MANNING", isHighlighted: false },
+    { trade: "00019 AES OP | 55% MANNING", isHighlighted: false },
+    { trade: "00021 FLT ENG | 59% MANNING", isHighlighted: false },
+    { trade: "00099 INT OP | 62% MANNING", isHighlighted: false },
+    { trade: "00100 MET TECH | 63% MANNING", isHighlighted: false },
+    { trade: "00101 SAR TECH | 64% MANNING", isHighlighted: false },
+    { trade: "00105 BOSN | 65% MANNING", isHighlighted: false },
+    { trade: "00109 ATIS TECH | 66% MANNING", isHighlighted: false },
+
   ];
 
   const chartData = {
@@ -95,7 +97,14 @@ const commanders_critical = () => {
 
   return (
     <div className="bg-gray-800 text-white min-h-screen p-6">
-      <h1 className="text-2xl font-bold mb-4">VADI - Commander's Critical Recruiting Report</h1>
+
+<Link href="/">
+    <h1 className="text-2xl font-bold mb-4 cursor-pointer">
+        VADI
+    </h1>
+</Link>
+
+      <p>Commander's Critical Recruiting Report</p>
       <p className="text-gray-400 text-sm mb-6">Last Updated: 2024.11.01.0732h EST</p>
 
       <div className="grid grid-cols-4 gap-6">
